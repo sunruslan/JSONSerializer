@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONSerializer", "JSONSerializer\JSONSerializer.csproj", "{83516487-6178-4900-835E-CBDB677448D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONSerializer.Test", "JSONSerializer.Test\JSONSerializer.Test.csproj", "{A122DCCD-AE95-4D58-A375-F835EFED336A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83516487-6178-4900-835E-CBDB677448D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83516487-6178-4900-835E-CBDB677448D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83516487-6178-4900-835E-CBDB677448D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A122DCCD-AE95-4D58-A375-F835EFED336A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A122DCCD-AE95-4D58-A375-F835EFED336A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A122DCCD-AE95-4D58-A375-F835EFED336A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A122DCCD-AE95-4D58-A375-F835EFED336A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
